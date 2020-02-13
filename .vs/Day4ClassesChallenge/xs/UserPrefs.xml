@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{83AC1212-1CC5-41BC-B662-12D2AC3D7AFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day4ClassesChallenge/Program.cs">
+    <Files>
+      <File FileName="Day4ClassesChallenge/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day4ClassesChallenge" expanded="True">
+            <Node name="Day4ClassesChallenge" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day4ClassesChallenge FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
